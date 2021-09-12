@@ -1,16 +1,46 @@
 ### Hi there 👋
 
-<!--
-**saptarshiweb/saptarshiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Saptarshi Mandal ,a second year undergrad pursuing B.Tech specialising in Information Technology Branch from 
+Kalyani Government Engineering College.
 
-Here are some ideas to get you started:
+I am a Competitive Programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[CodeForces Profile](https://codeforces.com/profile/saptarshi_10)
+
+[CodeChef Profile](https://www.codechef.com/users/saptarshi_25)
+
+
+I am interested in Hybrid App Development using Flutter .
+
+I am interested in API integration and I am currently learning FireBase.
+
+Some of my best projects are -->
+
+CodeForcesMadeEasy-->
+[Source Code Link](https://github.com/saptarshiweb/codeforcesmadeeasybysaptarshi)
+
+[Demo Video](https://drive.google.com/drive/folders/1kUEA00PzSevRxkvlyL2BwHdJGfuV2vUE?usp=sharing)
+
+A web app for Codeforces problem solving lovers.Here you can browse questions, Contests, 
+view any Users Profile, read blogs by Erricto, Tourist (and many more legendary authors)  and many more to do. 
+The complete web app is dynamic , the data is fetched from CodeForces API.
+
+
+
+
+
+
+
+CovidTracker--> It shows the Covid Statistics across the country and around the World using the data from the
+API. The Statewise and Countrywise data are given.
+
+[Source Code](https://github.com/saptarshiweb/CovidTracker)
+
+It is hosted on FireBase.
+[App Link](https://covidtracker-6d1e3.web.app/#/)
+
+
+
+WorldTime App--> A Simple Application used to show time in different TimeZones of the Country.
+[Source Code](https://github.com/saptarshiweb/Worldtime)
+
