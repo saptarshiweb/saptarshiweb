@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Saptarshi Mandal ,a second year undergrad pursuing B.Tech specialising in Information Technology Branch from 
-Kalyani Government Engineering College.
+I am Saptarshi Mandal ,a second year undergrad at Kalyani Government Engineering College,pursuing B.Tech specialising 
+in Information Technology Branch. 
 
 I am interested in Competitive Programming.
 
