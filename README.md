@@ -3,7 +3,7 @@
 I am Saptarshi Mandal ,a second year undergrad pursuing B.Tech specialising in Information Technology Branch from 
 Kalyani Government Engineering College.
 
-I am a Competitive Programmer.
+I am interested in Competitive Programming.
 
 [CodeForces Profile](https://codeforces.com/profile/saptarshi_10)      [CodeChef Profile](https://www.codechef.com/users/saptarshi_25)
 
