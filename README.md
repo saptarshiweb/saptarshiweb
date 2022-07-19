@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saptarshi,a Cross Platform FullStack App Developer having expertise in building Flutter applications.Currently looking to learn more about Backend technologies and integrate them to the FrontEnd.</h1>
+<h1 align="center">Hi 👋, I'm Saptarshi,a Flutter FullStack Developer having expertise in building applications with Flutter as Frontend and Firebase/NodeJs-MongoDB/SQlite as Backend.Currently looking to learn more about Backend.</h1>
 <h3 align="center">I also solve Data Structures and algorithm problems across various platforms like LeetCode,Codeforces and Codechef.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarshiweb&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshiweb" /> </p>
