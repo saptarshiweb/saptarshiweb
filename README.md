@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saptarshi,a Flutter FullStack Developer, and an avid problem solver.</h1>
-<h3 align="center">I have expertise in developing Full Stack applications with Flutter as Frontend and NodeJs-MongoDB / Firebase /SQlite as Backend. CUrrently looking to learn more about Backend Technologies. I also solve Data Structures and algorithm problems across various platforms like LeetCode,Codeforces and Codechef.</h3>
+<h3 align="center">I have expertise in developing Full Stack applications with Flutter as Frontend and NodeJs-MongoDB / Firebase /SQlite as Backend. Currently looking to learn more about Backend Technologies. I also solve Data Structures and algorithm problems across various platforms like LeetCode,Codeforces and Codechef.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarshiweb&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshiweb" /> </p>
 
